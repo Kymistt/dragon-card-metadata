@@ -1,7 +1,7 @@
 {
   "name": "Draco Fuego",
   "description": "Una majestuosa criatura de fuego con alas ígneas.",
-  "animation_url": "https://cdn.discordapp.com/attachments/751106760550645760/830169775300542516/0001-0200_1.mp4?ex=6826f01a&is=68259e9a&hm=d31fa29d863c91e10f8b2e88b48cd8a07100c6cc238afa07f37c31274c7ba543&",
+  "image": "https://raw.githubusercontent.com/Kymisttdragon-card-metadata/main/dragon1.png",
   "attributes": [
     { "trait_type": "Ataque",   "value": 80 },
     { "trait_type": "Defensa",  "value": 50 },
