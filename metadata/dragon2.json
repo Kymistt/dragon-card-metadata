@@ -1,10 +1,11 @@
+// dragon1.json
 {
-  "name": "Water Egg",
-  "description": "Un misterioso huevo acuático que se alimenta de peces payaso en las profundidades del océano.",
-  "image": "https://raw.githubusercontent.com/Kymistt/dragon-card-metadata/refs/heads/main/metadata/dragon2.png",
+  "name": "Draco Aquoso",
+  "description": "Una majestuosa criatura de agua con movimiento veloz en el agua.",
+  "image": "https://raw.githubusercontent.com/Kymistt/dragon-card-metadata/main/images/dragon2.png",
   "attributes": [
-    { "trait_type": "Habitat", "value": "Ocean" },
-    { "trait_type": "Type",    "value": "Passive" },
-    { "trait_type": "Feeding", "value": "Clown Fish" }
+    { "trait_type": "Ataque",   "value": 60 },
+    { "trait_type": "Defensa",  "value": 55 },
+    { "trait_type": "Elemento", "value": "Agua" }
   ]
 }
