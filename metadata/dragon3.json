@@ -1,0 +1,10 @@
+{
+  "name": "Draco Obsidian",
+  "description": "Una majestuosa criatura de obsidiana más dura que el acero.",
+  "image": "https://raw.githubusercontent.com/Kymistt/dragon-card-metadata/refs/heads/main/metadata/dragon1.png",
+  "attributes": [
+    { "trait_type": "Ataque",   "value": 10 },
+    { "trait_type": "Defensa",  "value": 1000 },
+    { "trait_type": "Elemento", "value": "Obsidiana" }
+  ]
+}
