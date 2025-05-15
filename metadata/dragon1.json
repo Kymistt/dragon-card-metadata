@@ -1,7 +1,7 @@
 {
   "name": "Draco Fuego",
   "description": "Una majestuosa criatura de fuego con alas ígneas.",
-  "image": "https://raw.githubusercontent.com/Kymistt/dragon-card-metadata/main/dragon1.png",
+  "image": "https://raw.githubusercontent.com/Kymistt/dragon-card-metadata/blob/main/dragon1.png",
   "attributes": [
     { "trait_type": "Ataque",   "value": 80 },
     { "trait_type": "Defensa",  "value": 50 },
