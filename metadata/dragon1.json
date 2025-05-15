@@ -1,0 +1,10 @@
+{
+  "name": "Draco Fuego",
+  "description": "Una majestuosa criatura de fuego con alas ígneas.",
+  "image": "https://tu-dominio.com/images/draco-fuego.png",
+  "attributes": [
+    { "trait_type": "Ataque",    "value": 80 },
+    { "trait_type": "Defensa",   "value": 50 },
+    { "trait_type": "Elemento",  "value": "Fuego" }
+  ]
+}
