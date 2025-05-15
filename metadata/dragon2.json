@@ -1,7 +1,7 @@
 {
   "name": "Draco Aquoso",
   "description": "Una majestuosa criatura de agua con movimiento veloz en el agua.",
-  "image": "https://raw.githubusercontent.com/Kymistt/dragon-card-metadata/main/images/dragon2.png",
+  "image": "https://raw.githubusercontent.com/Kymistt/dragon-card-metadata/refs/heads/main/metadata/dragon2.png",
   "attributes": [
     { "trait_type": "Ataque",   "value": 60 },
     { "trait_type": "Defensa",  "value": 55 },
